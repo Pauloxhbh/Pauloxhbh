@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Paulo, um programado iniciante que acaba de iniciar a jornada de programador Júnior 😁
+## Bem-vindo(a) ao perfil do Paulo, um programado iniciante que acaba de iniciar a jornada
 
  <div>
    <a href="https://github.com/Pauloxhbh">
