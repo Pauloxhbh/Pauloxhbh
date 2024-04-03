@@ -1,3 +1,4 @@
+
 name: Generate Datas
 
 on:
@@ -14,13 +15,8 @@ jobs:
    - uses: Platane/snk@master
     id: snake-gif
     with:
-     github_user_name: ${{ github.repository.owner.login }}
+     github_user_name: Pauloxhbh
      svg_out_path: dist/github-contribution-grid-snake.svg
-        # Personalização da animação
-        color: ${{ secrets.SNAKE_COLOR }}
-        size: ${{ secrets.SNAKE_SIZE }}
-        speed: ${{ secrets.SNAKE_SPEED }}
-        style: ${{ secrets.SNAKE_STYLE }}
 
    - uses: crazy-max/ghaction-github-pages@v2.1.3
     with:
